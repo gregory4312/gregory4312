@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Greg]
+# Hi there! 👋 I'm Greg
 
 ## 🚀 About Me
 I'm a passionate developer specializing in **Minecraft Education** tools and web development. I create innovative solutions that bridge the gap between gaming and education, helping educators and developers build better experiences in Minecraft.
